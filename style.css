@@ -1,0 +1,40 @@
+#header{
+    display: flex;
+    background-position:center;
+    margin:auto;
+    width:200px; 
+    height: 60px;
+    padding:0%;
+}
+
+#box{
+    height:500px;
+    margin:auto;
+    padding: 0
+}
+
+#button{
+    background-color: rgba(193, 0, 148, 0.249);
+    color:black;
+    border:1px black solid;
+    width:310px;
+}
+
+#button2{
+    background-color: rgba(159, 159, 159, 0.153);
+    color:black;
+    border:1px black solid;
+    width:310px;
+}
+
+#lastp{
+    padding-top:10px;
+}
+
+#fp{
+    padding-left:128px;
+}
+
+.okay{
+    color:rgb(238, 237, 237)
+}
