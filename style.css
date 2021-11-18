@@ -6,16 +6,18 @@
     height: 60px;
     padding:0%;
 }
-
 #box{
-    height:500px;
+    height:540px;
     margin:auto;
     padding: 0
 }
+#lead{
+    font-size: 30px;
+}
 
 #button{
-    background-color: rgba(193, 0, 148, 0.249);
     color:black;
+    background-color: rgba(193, 0, 148, 0.249);
     border:1px black solid;
     width:310px;
 }
@@ -26,15 +28,15 @@
     border:1px black solid;
     width:310px;
 }
-
 #lastp{
     padding-top:10px;
 }
 
 #fp{
-    padding-left:128px;
+    padding-left:101px;
 }
 
 #okay{
-    color:rgb(121, 121, 121)
+    color:rgb(121, 121, 121);
+    text-align: center;
 }
